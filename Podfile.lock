@@ -1,0 +1,16 @@
+PODS:
+  - AppboosterSDK (0.1.9)
+
+DEPENDENCIES:
+  - AppboosterSDK
+
+SPEC REPOS:
+  trunk:
+    - AppboosterSDK
+
+SPEC CHECKSUMS:
+  AppboosterSDK: 98df862928eb633094cedd8de459db21b1002f02
+
+PODFILE CHECKSUM: 060b8933a758df92a21c573718b5669cb662a97b
+
+COCOAPODS: 1.9.3
